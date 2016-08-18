@@ -8,6 +8,7 @@
 
   "dependencies": {
     "Microsoft.NETCore.App": {
+      "type": "build",
       "version": "1.0.0"
     }
   },
